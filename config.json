@@ -1,0 +1,14 @@
+{
+  "journal_dir": "C:/Users/Awol/Saved Games/Frontier Developments/Elite Dangerous",
+  "target_lat": -86.52,
+  "target_lon": -146.01,
+  "screen_width": 3440,
+  "screen_height": 1440,
+  "horizontal_fov": 70.0,
+  "vertical_fov": 43.0,
+  "pitch_offset_deg": 0.0,
+  "marker_radius": 16,
+  "update_ms": 100,
+  "show_debug_text": true,
+  "hide_when_no_position": true
+}
